@@ -1,0 +1,10 @@
+/Library
+/Logs
+/obj
+/Temp
+/Chat_BurstDebugInformation_DoNotShip
+/*.csproj
+/*.sln
+/.idea
+/*.apk
+/UserSettings
